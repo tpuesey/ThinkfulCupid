@@ -68,6 +68,7 @@ header {
     background-color: #83092e;
     padding: 20px 20px 0 20px;
     text-align: center;
+    width: 100%;
 }
 
 .logo {
@@ -128,6 +129,7 @@ form button {
 
 footer {
     background-color: #83092e;
+    width: 100%;
 }
 
 footer p {
