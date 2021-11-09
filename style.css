@@ -32,9 +32,9 @@ section.alternate-background {
 }
 
 main img {
-    width: auto;
+    width: 100%;
     height: 215px;
-    padding: 10px;
+    
 }
 
 
